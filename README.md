@@ -153,4 +153,4 @@ if (ownerLoggedIn) {
     owner.receivePayment(5000);
 }
 ```
-[Output](https://github.com/KendoCee25/UML-Project/blob/9278160c49d1ead91ce81e72b55cd90bd77ec3dd/output%20screenshot.png)
+![Output](https://github.com/KendoCee25/UML-Project/blob/9278160c49d1ead91ce81e72b55cd90bd77ec3dd/output%20screenshot.png)
